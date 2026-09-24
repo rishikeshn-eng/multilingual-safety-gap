@@ -1,5 +1,7 @@
 # multilingual-safety-gap
 
+**Live demo:** [https://rishikeshn-eng.github.io/multilingual-safety-gap/](https://rishikeshn-eng.github.io/multilingual-safety-gap/) runs the whole pipeline in your browser (bring your own Gemini key for the model calls).
+
 Does a model's safety behaviour survive translation? Safety training is
 concentrated in English. This measures whether the same request gets the
 same treatment in Hindi and in Hinglish.
